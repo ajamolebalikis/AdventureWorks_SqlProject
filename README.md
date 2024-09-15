@@ -20,12 +20,17 @@ The customers table contains customer information.
 ### Territories Table
 The territories table contains geographical sales region.
 
+### Join Tables
+Joined the fact table sales to dimensional table product,customer,territories using a foreign key to references each table.
+
 ### Data Cleaning Process
 **Handle Missing Values**
    Replace or remove rows with NULL values, depending on the context of the column.
+   
 **Remove Duplicates**
     Ensure no duplicate entries exist in critical tables.
-
+### ER Diagram
+![]("C:\Users\USER\Downloads\AdventureWorks_Project ER Diagram.drawio.png").
     
 
 
