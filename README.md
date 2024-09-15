@@ -29,8 +29,10 @@ Joined the fact table sales to dimensional table product,customer,territories us
    
 **Remove Duplicates**
     Ensure no duplicate entries exist in critical tables.
-### ER Diagram
-![]("C:\Users\USER\Downloads\AdventureWorks_Project ER Diagram.drawio.png").
+### ER Diagram.
+![ER Diagram]![ER Diagram](https://github.com/user-attachments/assets/407c1a53-a9be-41be-97ff-b5b03ac2acc9)
+
+
     
 
 
