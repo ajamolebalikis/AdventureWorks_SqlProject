@@ -2,7 +2,7 @@
 This respository contains SQL scripts for database management
 ## Overview
 This project contain the SQL scripts and documentation for a star schema designed for a sales database that seperates the fact table and dimension table.It also covers the data cleaning processes and ER diagram.
-**Disclaimer**:The datasets used are purely for demonstration purposes and do not represent any specific company, institution or country, but just a practice datasetto demonstrate the capabilities of SQL.
+**-Disclaimer_**:_The datasets used are purely for demonstration purposes and do not represent any specific company, institution or country, but just a practice datasetto demonstrate the capabilities of SQL_.
 
 ## Data Schema
 The database is structured using a **Star Schema** with one fact table(Sales) and multiple dimensional table (Products, Customers, Territories, ProductSubcategory, ProductCategory).
@@ -29,6 +29,27 @@ Joined the fact table sales to dimensional table product,customer,territories us
    
 **Remove Duplicates**
     Ensure no duplicate entries exist in critical tables.
+
+### ER Diagram
+Below is the Entity Relationship diagram for the data star schema relationship between the tables.
+![ER Diagram](https://github.com/user-attachments/assets/6487c660-4980-4d12-b404-4c1eca797dd2)
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
 ### ER Diagram.
 ![ER Diagram]![ER Diagram](https://github.com/user-attachments/assets/407c1a53-a9be-41be-97ff-b5b03ac2acc9)
 
