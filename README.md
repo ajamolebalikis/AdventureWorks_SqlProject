@@ -32,7 +32,11 @@ Joined the fact table sales to dimensional table product,customer,territories us
 
 ### ER Diagram
 Below is the Entity Relationship diagram for the data star schema relationship between the tables.
-![ER Diagram](https://github.com/user-attachments/assets/6487c660-4980-4d12-b404-4c1eca797dd2)
+![here](![ER Diagram](user-attachments/assets/5e184740-54d0-401f-b924-10105a1ba77e)
+
+
+
+
 
 
 
