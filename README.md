@@ -32,7 +32,9 @@ Joined the fact table sales to dimensional table product,customer,territories us
 
 ### ER Diagram
 Below is the Entity Relationship diagram for the data star schema relationship between the tables.
-![](ER Diagram.drawio.png)
+
+![ER Diagram drawio](https://github.com/user-attachments/assets/e635885c-90ee-4ede-8d59-6caec8cd9485)
+
 
 ## Conclusion
 This project demonstrates the power of structured data management using a star schema and efficient data claeaning techniques. By organizing data into fact and dimension tables. Dive into the scripts,explore the ER diagram and use this framework to supercharge your data driven decison-making!.
