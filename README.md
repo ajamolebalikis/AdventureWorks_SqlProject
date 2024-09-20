@@ -12,7 +12,7 @@ The sales table stores transactional data about customer purchases.
 
 ### Dimension Tables
 ### Products Table
-The products table contains details, subcatrgories and catgories about the product being sold.
+The products table contains details, subcategories and categories about the product being sold.
 
 ### Customers Tables
 The customers table contains customer information.
@@ -37,7 +37,7 @@ Below is the Entity Relationship diagram for the data star schema relationship b
 
 
 ## Conclusion
-This project demonstrates the power of structured data management using a star schema and efficient data claeaning techniques. By organizing data into fact and dimension tables. Dive into the scripts,explore the ER diagram and use this framework to supercharge your data driven decison-making!.
+This project demonstrates the power of structured data management using a star schema and efficient data cleaning techniques. By organizing data into fact and dimension tables. Dive into the scripts,explore the ER diagram and use this framework to supercharge your data driven decison-making!.
 
 **THANK YOU!**
 
