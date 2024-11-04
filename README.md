@@ -2,6 +2,7 @@
 This respository contains SQL scripts for database management
 ## Overview
 This project contain the SQL scripts and documentation for a star schema designed for a sales database that seperates the fact table and dimension table.It also covers the data cleaning processes and ER diagram.
+
 **-Disclaimer_**:_The datasets used are purely for demonstration purposes and do not represent any specific company, institution or country, but just a practice datasetto demonstrate the capabilities of SQL_.
 
 ## Data Schema
@@ -33,7 +34,8 @@ Joined the fact table sales to dimensional table product,customer,territories us
 ### ER Diagram
 Below is the Entity Relationship diagram for the data star schema relationship between the tables.
 
-![ER Diagram drawio](https://github.com/user-attachments/assets/e635885c-90ee-4ede-8d59-6caec8cd9485)
+![AdventureWorks_Project ER Diagram drawio](https://github.com/user-attachments/assets/14735bdf-9b56-41a7-af46-2cbb86c23cda)
+
 
 
 ## Conclusion
